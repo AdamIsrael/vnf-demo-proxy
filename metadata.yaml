@@ -1,0 +1,12 @@
+name: vnf-demo-proxy
+summary: A charm to demonstrate VNF configuration.
+maintainer: Adam Israel <adam.israel@canonical.com>
+description: |
+  This charm is intended to serve as an example of what a VNF Configuration "proxy" charm looks like when implementing all of the available functionality for use with the Open Source Mano (OSM) project.
+tags:
+  - osm
+  - vnf
+  - nfv
+series:
+- xenial
+subordinate: false
